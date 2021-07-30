@@ -14,4 +14,5 @@ This repository contains analysis code and resources for the manuscript "Structu
  - numpy 1.20.1
  - pandas 1.2.1
  - seaborn 0.11.1
+
 Analysis was performed on a MacBook Pro 16" (2019) with 32 GB RAM and a 2.3 GHz 8-core Intel Core i9 running macOS Big Sur (Version 11.5).
