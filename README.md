@@ -2,7 +2,7 @@
 This repository contains analysis code and resources for the manuscript "Structural connectivity of human inferior colliculus subdivisions using in vivo and post mortem diffusion MRI tractography" (link forthcoming).
 
 ## Data availability
- - Tractography streamlines and other derivatives: (link forthcoming)
+ - Tractography streamlines and other derivatives: https://osf.io/7e6qn/?view_only=a25d48e093aa4318914e395a2bea62d5
  - In vivo (raw/preprocessed): https://doi.org/10.5061/dryad.rjdfn2z8g
  - In vivo (diffusion MRI modeling): http://brain.labsolver.org/diffusion-mri-data/mgh-760-m-dmri-data
  - Post mortem (by request): https://civmvoxport.vm.duke.edu/voxbase/login.php?return_url=%2Fvoxbase%2F
